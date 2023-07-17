@@ -1,0 +1,41 @@
+
+body{
+	
+	 background-image: url('../images/counter.jpeg');
+}
+
+.div-design{
+  
+  background-color: rgba(0,0,0,0.5);
+  height:300px;
+  width: 300px;
+  border:none;
+  border-radius:15px;
+  padding: 50px;
+  margin: 20px;
+  margin-top:80px;
+}
+
+.box{
+    padding:5px;
+    margin:15px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0,0.3);
+    color:white;
+    font-size:1rem;
+    
+}
+
+.div-design1{
+  
+  background-color: rgba(0,0,0,0.5);
+  height:400px;
+  width: 300px;
+  border:none;
+  border-radius:15px;
+  padding: 50px;
+  margin: 20px;
+  margin-top:80px;
+}

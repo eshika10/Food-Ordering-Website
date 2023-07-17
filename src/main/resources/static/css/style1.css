@@ -1,0 +1,47 @@
+body{
+    background-image: url('../images/counter.jpeg');
+    height:550px;
+}
+
+
+
+
+
+form{
+
+    display: flex;
+    flex-direction: column;
+    height: 360px;
+    width:400px;
+    border:1px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top:50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius:25px;
+}
+
+.box{
+    padding:12px;
+    margin:15px;
+    border:none;
+    outline:none;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0,0.3);
+    color:white;
+    font-size:1rem;
+    text-align: center;
+}
+
+.register_form_design{
+    display: flex;
+    flex-direction: column;
+    height: 430px;
+    width:400px;
+    border:1px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top:50px;
+    background-color: rgba(0,0,0,0.3);
+    border-radius:25px;
+}

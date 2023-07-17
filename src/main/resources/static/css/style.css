@@ -1,0 +1,88 @@
+.bg-orange {
+    background-color: orange;
+  }
+
+.header_design{
+    height:60px;
+}
+
+.brandname_design{
+    margin-top:10px;
+    font-family: Arial, sans-serif;
+    font-size:x-large;
+}
+
+.dropdown_design{
+    text-align: right;
+    margin-top:10px;
+    color:white;
+    text-align: right;
+    text-decoration: none;
+}
+
+.food_logo_design{
+    margin-top:5px;
+}
+
+.food_design{
+  display:block;
+  width:100%; 
+  height:550px;
+ background-size: cover;
+  opacity:.8;
+}
+
+h5{
+    text-shadow: 0 1px black;
+
+}
+
+h5:hover {
+    filter: brightness(0.2);
+}
+
+p {
+    margin-bottom: 2em; /* increase white space after a paragraph */
+  }
+
+.about_img_design{
+    
+    height:500px;
+}
+
+.counter{
+    background-image: url('../images/counter.jpeg');
+    height:200px;
+    color:azure;
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+h3{
+    margin-top:10px;
+}
+
+.footer_design{
+    background-color: rgb(0, 0, 0);
+    height:300px;
+}
+
+h2{
+    color:rgb(240, 248, 247);
+    margin-top: 20px;
+    font-size: medium;
+    text-align: center;
+}
+
+.product_design h6{
+    color:azure;
+    text-align: center;
+}
+
+.login_design{
+    
+    background-image: url('../images/counter.jpeg');
+    height:550px;
+}
+
